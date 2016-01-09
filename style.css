@@ -1,0 +1,17 @@
+.cup {
+  height: 150px;
+  width: 150px;
+  border: 2px solid #000;
+  background-color: #ffff77;
+  display: inline-block;
+  text-align: center;
+  font-size: 4em;
+}
+
+.container {
+  border: 2px solid #000;
+  min-height: 40px;
+  padding: 10px;
+  margin: 5px;
+  width: auto;
+}
